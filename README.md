@@ -19,8 +19,8 @@ Estou cursando sistemas de informações🎓no Instituto Federal campus de Uruta
 - 🛠 &nbsp; Atualmente trabalho com python, AWS, Docker.
 - 🚀 &nbsp; Atualmente estou aprendendo serviços cloud.
 - 👨🏻‍💻 &nbsp; A maioria dos meus projetos estão disponíveis no [Github](https://github.com/joaovitorpagani99).
-- 👾 &nbsp; Curiosidade: Igual nem sempre é igual em Javascript.
-- 📫 &nbsp; Como chegar até mim: joaovitorpagani99@gmail.com.
+- 👾 &nbsp; Curiosidade: Igual nem sempre é igual em Java.
+- 📫 &nbsp; Como chegar até mim: joaovitorpagani22@gmail.com.
 - 📝 &nbsp; Confira meu [Curriculo](https://github.com/joaovitorpagani99/joaovitorpagani99/resume.pdf).
 
 ### Meus favoritos absolutos:
