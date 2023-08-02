@@ -1,8 +1,7 @@
 ## OII 👋, eu sou [João Vitor Pagani!](https://github.com/joaovitorpagani99/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/joaovitorpagani99)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jo%C3%A3o-v%C3%ADtor-pagani-998536195/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/joaovitorpagani1/)
-
 
 ### Contente por te ver aqui! &nbsp; 
 
