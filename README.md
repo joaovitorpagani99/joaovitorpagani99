@@ -33,7 +33,7 @@ Estou cursando sistemas de informações🎓no Instituto Federal campus de Uruta
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,aws,c,java,python,spring,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,c,java,python,spring,mysql,git,scrum" />
   </a>
 </p>
 <!--
