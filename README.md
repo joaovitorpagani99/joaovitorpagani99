@@ -8,7 +8,7 @@
 
 Estou cursando sistemas de informações🎓no Instituto Federal campus de Urutai🏛. Sou um aprendiz apaixonado que está sempre disposto a aprender e trabalhar com tecnologias e domínios💡. Adoro explorar novas tecnologias e aproveitá-las para resolver problemas da vida real✨. Atualmente estou estagiando🕸️e trabalhando em minhas estruturas de dados e algoritmos🤓.
 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
