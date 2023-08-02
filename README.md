@@ -16,13 +16,12 @@ Estou cursando sistemas de informações🎓no Instituto Federal campus de Uruta
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 🛠 &nbsp; Atualmente trabalho com python, AWS, Docker.
+- 🚀 &nbsp; Atualmente estou aprendendo serviços cloud.
+- 👨🏻‍💻 &nbsp; A maioria dos meus projetos estão disponíveis no [Github](https://github.com/joaovitorpagani99).
+- 👾 &nbsp; Curiosidade: Igual nem sempre é igual em Javascript.
+- 📫 &nbsp; Como chegar até mim: joaovitorpagani99@gmail.com.
+- 📝 &nbsp; Confira meu [Curriculo](https://github.com/joaovitorpagani99/joaovitorpagani99/resume.pdf).
 
 ### My Absolute Favorites:
 
