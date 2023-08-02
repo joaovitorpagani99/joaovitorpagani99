@@ -1,7 +1,5 @@
 ## Oiii eu sou o João Vitor Pagani, desenvolvedor back-end!
 
-  <h1 align="center">🤙 Hi, I'm Kaio</h1> 
-
 # 🤪 Sobre mim:<br>
 🔭 Atualmente estou trabalhando em: <br>
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bj307&repo=abyz-shop)
