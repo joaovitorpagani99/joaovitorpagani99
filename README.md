@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=.&style=flat-square&color=0088cc)
 
 Estou cursando sistemas de informações🎓no Instituto Federal campus de Urutai🏛. Sou um aprendiz apaixonado que está sempre disposto a aprender e trabalhar com tecnologias e domínios💡. Adoro explorar novas tecnologias e aproveitá-las para resolver problemas da vida real✨. Atualmente estou estagiando🕸️e trabalhando em minhas estruturas de dados e algoritmos🤓.
 
