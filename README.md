@@ -1,10 +1,10 @@
-## Hey 👋, I'm [João Vitor Pagani!](https://github.com/iampavangandhi/)
+## OII 👋, eu sou [João Vitor Pagani!](https://github.com/joaovitorpagani99/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/joaovitorpagani99)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/joaovitorpagani1/)
 
 
-### Glad to see you here! &nbsp; 
+### Contente por te ver aqui! &nbsp; 
 
 Estou cursando sistemas de informações🎓no Instituto Federal campus de Urutai🏛. Sou um aprendiz apaixonado que está sempre disposto a aprender e trabalhar com tecnologias e domínios💡. Adoro explorar novas tecnologias e aproveitá-las para resolver problemas da vida real✨. Atualmente estou estagiando🕸️e trabalhando em minhas estruturas de dados e algoritmos🤓.
 
@@ -25,9 +25,9 @@ Estou cursando sistemas de informações🎓no Instituto Federal campus de Uruta
 
 ### Meus favoritos absolutos:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+- 💻 &nbsp; Adoro explorar novas pilhas de tecnologia e construir coisas legais.
+- 📰 &nbsp; Ler blogs de tecnologia sempre que possível.
+- 🍕 &nbsp;Hackathons, encontros e eventos de tecnologia.
 
 ### Linguagens e Ferramentas:
 
@@ -69,10 +69,3 @@ Estou cursando sistemas de informações🎓no Instituto Federal campus de Uruta
 	</ul>	
 </details>
 
-#
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
