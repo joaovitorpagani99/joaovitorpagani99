@@ -15,7 +15,7 @@ Estou cursando sistemas de informações🎓no Instituto Federal campus de Uruta
 
 ### Falando sobre coisas pessoais:
 
-- 🛠 &nbsp; Atualmente trabalho com python, AWS, Docker.
+- 🛠 &nbsp; Atualmente trabalho com Java, Spring Boot, NestJs, AWS, SQL e NoSql.
 - 🚀 &nbsp; Atualmente estou aprendendo serviços cloud.
 - 👨🏻‍💻 &nbsp; A maioria dos meus projetos estão disponíveis no [Github](https://github.com/joaovitorpagani99).
 - 👾 &nbsp; Curiosidade: Igual nem sempre é igual em Java.
