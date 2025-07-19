@@ -1,70 +1,78 @@
-## OII 👋, eu sou [João Vitor Pagani!](https://github.com/joaovitorpagani99/)
+## Oi 👋, eu sou o [João Vitor Pagani!](https://github.com/joaovitorpagani99/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jo%C3%A3o-v%C3%ADtor-pagani-998536195/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/joaovitorpagani1/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jo%C3%A3o-v%C3%ADtor-pagani-998536195/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/joaovitorpagani1/)
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joaovitorpagani22@gmail.com)
 
-### Contente por te ver aqui! &nbsp; 
+---
 
-Estou cursando sistemas de informações🎓no Instituto Federal campus de Urutai🏛. Sou um aprendiz apaixonado que está sempre disposto a aprender e trabalhar com tecnologias e domínios💡. Adoro explorar novas tecnologias e aproveitá-las para resolver problemas da vida real✨. Atualmente estou estagiando🕸️e trabalhando em minhas estruturas de dados e algoritmos🤓.
+🎓 Estudante de **Sistemas de Informação** no Instituto Federal - Campus Urutaí.  
+💼 Estagiando como desenvolvedor e aprofundando meus conhecimentos em **Ruby on Rails**.  
+🚀 Apaixonado por transformar ideias em soluções digitais eficientes e escaláveis.  
+🧠 Entusiasta de boas práticas, arquitetura limpa, testes automatizados e produtividade com Rails.
 
-<a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+---
 
-[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+<img align="right" height="250" width="375" alt="Coder gif" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+### ⚡ Um pouco sobre mim:
 
-### Falando sobre coisas pessoais:
+- 🔧 Trabalho com **Ruby on Rails, Hotwire, Turbo, TailwindCSS, PostgreSQL e Redis**.
+- ☁️ Tenho explorado **Rails APIs com React/NestJS no front**, além de **deploy com Docker e Render**.
+- 💡 Acredito que software bem feito melhora vidas — e estou nessa missão!
+- 📫 Contato: **joaovitorpagani22@gmail.com**
+- 📄 Veja meu [currículo aqui](https://github.com/joaovitorpagani99/joaovitorpagani99/raw/main/resume.pdf).
 
-- 🛠 &nbsp; Atualmente trabalho com Java, Spring Boot, NestJs, AWS, SQL e NoSql.
-- 🚀 &nbsp; Atualmente estou aprendendo serviços cloud.
-- 👨🏻‍💻 &nbsp; A maioria dos meus projetos estão disponíveis no [Github](https://github.com/joaovitorpagani99).
-- 👾 &nbsp; Curiosidade: Igual nem sempre é igual em Java.
-- 📫 &nbsp; Como chegar até mim: joaovitorpagani22@gmail.com.
-- 📝 &nbsp; Confira meu [Curriculo](https://github.com/joaovitorpagani99/joaovitorpagani99/resume.pdf).
+---
 
-### Meus favoritos absolutos:
-
-- 💻 &nbsp; Adoro explorar novas pilhas de tecnologia e construir coisas legais.
-- 📰 &nbsp; Ler blogs de tecnologia sempre que possível.
-- 🍕 &nbsp;Hackathons, encontros e eventos de tecnologia.
-
-### Linguagens e Ferramentas:
+### 🚀 Tecnologias e Ferramentas que uso:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,c,java,python,spring,mysql,git,scrum" />
+    <img src="https://skillicons.dev/icons?i=rails,ruby,postgres,docker,redis,git,heroku,linux,github,vscode" />
   </a>
 </p>
-<!--
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
--->
 
-### Projetos e coisas de desenvolvimento:
+---
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
+### 💡 Interesses e hobbies:
+
+- 💻 Explorar boas práticas em Rails, testes automatizados e arquitetura de software.
+- 🌐 Construir APIs modernas e frontends responsivos com Tailwind.
+- 📚 Ler sobre clean code, DDD, produtividade e evolução de sistemas.
+- 🍕 Participar de hackathons, eventos de tecnologia e comunidades de devs.
+
+---
+
+### 📊 Estatísticas do GitHub:
+
+<details>
+  <summary><b>📈 Github Stats</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorpagani99&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorpagani99&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorpagani99&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorpagani99&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"/>
 </details>
 
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-
+<details>
+  <summary><b>🔥 Github Streak</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovitorpagani99&hide_border=true" />
-</details>
- 
-<details>	
-  <br />
-  <summary><b>⚙️ Coisas que eu uso para fazer as coisas</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> AVELL (i5)</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
-	    <li><b>Code Editor:</b> VSCode - O melhor editor que existe.</li>
-	    <li><b>To Stay Updated:</b> Dev.to, stack overflow, Linkedin.</li>
-	    <br />
-	</ul>	
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovitorpagani99&hide_border=true&theme=tokyonight" />
 </details>
 
+---
+
+### 🛠️ Ferramentas do meu dia a dia:
+
+- 💻 **SO:** Ubuntu 20.04
+- 💼 **Notebook:** AVELL (i5)
+- 🌐 **Navegador:** Firefox
+- 🛠️ **Editor de Código:** VS Code + extensões para Ruby/Rails
+- 📚 **Fontes de aprendizado:** GoRails, Drifting Ruby, DEV.to, Stack Overflow, LinkedIn
+
+---
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" >
+  </a>
+</p>
