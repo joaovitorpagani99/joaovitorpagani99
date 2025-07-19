@@ -21,8 +21,6 @@
 - ☁️ Tenho explorado **Rails APIs com React/NestJS no front**, além de **deploy com Docker e Render**.
 - 💡 Acredito que software bem feito melhora vidas — e estou nessa missão!
 - 📫 Contato: **joaovitorpagani22@gmail.com**
-- 📄 Veja meu [currículo aqui](https://github.com/joaovitorpagani99/joaovitorpagani99/raw/main/resume.pdf).
-
 ---
 
 ### 🚀 Tecnologias e Ferramentas que uso:
