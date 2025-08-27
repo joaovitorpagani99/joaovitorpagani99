@@ -7,7 +7,7 @@
 ---
 
 🎓 Estudante de **Sistemas de Informação** no Instituto Federal - Campus Urutaí.  
-💼 Estagiando como desenvolvedor e aprofundando meus conhecimentos em **Ruby on Rails**.  
+💼 Trabalhando como desenvolvedor e aprofundando meus conhecimentos em **Ruby on Rails**.  
 🚀 Apaixonado por transformar ideias em soluções digitais eficientes e escaláveis.  
 🧠 Entusiasta de boas práticas, arquitetura limpa, testes automatizados e produtividade com Rails.
 
